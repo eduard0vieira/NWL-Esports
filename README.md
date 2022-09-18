@@ -14,4 +14,4 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 ## Contact :arrow_down:
 
-eduardohvieira@gmail.com
+eduardohvieira05@gmail.com
